@@ -18,7 +18,7 @@ Este projeto é um formulário multistep simples utilizando **React**. O formul�
 
 ### 1. Clone o repositório em sua máquina local usando o comando abaixo:
 ```bash
-git clone https://github.com/seu-usuario/multistep-form.git
+git clone https://github.com/daniel-souza-ferreira/multistep-form.git
 ```
 ### 2. Instale as dependências através via npm pelo comando abaixo:
 ```bash
